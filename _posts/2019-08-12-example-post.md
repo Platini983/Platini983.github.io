@@ -1,9 +1,9 @@
 ---
-title: "Data Wrangling Project"
+title: "Example Project Post"
 date: 2019-08-12
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: 
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
